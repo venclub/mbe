@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANDING PAGE - MBE",
-    "currentPage": "index.html",
+    "currentPage": "saude_economia_acessivel_consultas_exames_desconto.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -54,14 +54,15 @@
     "gdpr": false
   },
   "pages": {
-    "index.html": {
+    "saude_economia_acessivel_consultas_exames_desconto.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "VEN CLUB - Um Clube de Benefícios ao seu alcance.",
+        "meta_descr": "Temos a solução para você e sua família. Saúde com qualidade a preços acessíveis.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202020-07-31%20at%2015.04.24-922x1276.jpeg"
       },
       "components": [
         {
